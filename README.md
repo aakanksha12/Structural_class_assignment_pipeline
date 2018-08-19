@@ -10,7 +10,7 @@ It has following requirements:
 
 ## Usage
 
-perl structure_assign.pl gene_list.txt current_working_directory path_for_SCRATCH1D
+perl structure_assignment.pl gene_list.txt current_working_directory path_for_SCRATCH1D
 
 ## Output
 
