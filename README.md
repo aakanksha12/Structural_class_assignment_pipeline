@@ -22,7 +22,7 @@ It creates following output files
 
 In order to extract different structural classes sites from different genes, you need PAUP to extract differnt CHARSET blocks from the output nexus file
 
-### Sample file
+### Sample files
 
 Sample input and output files are provided in the example folder
 
