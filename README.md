@@ -1,10 +1,10 @@
 # Structural_class_assignment_pipeline
 
-Structural class assignment pipeline assigns secondary sructural classes and relative solvent accessibility classes to each site in a multiple sequence alignment using SCRATCH 1D structure prediction program.
+Structural class assignment pipeline assigns secondary structural classes and relative solvent accessibility classes to each site in a multiple sequence alignment using SCRATCH 1D structure prediction program.
 
 ## Getting Started
 It has following requirements:
-- SCRATCH1D prdiction program (You have to provide the path for SCRATCH1D as a command line argument)
+- SCRATCH1D prediction program (You have to provide the path for SCRATCH1D as a command line argument)
 - A list of gene names for protein multiple sequence alignments as a text file
 - Protein sequence alignments in nexus format
 
