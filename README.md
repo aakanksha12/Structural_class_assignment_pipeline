@@ -4,13 +4,13 @@ Structural class assignment pipeline assigns secondary structural classes and re
 
 ## Getting Started
 It has following requirements:
-- SCRATCH1D prediction program (You have to provide the path for SCRATCH1D as a command line argument)
+- SCRATCH1D prediction program (You need to provide the path for SCRATCH1D as a command line argument)
 - A list of gene names for protein multiple sequence alignments as a text file
-- Protein sequence alignments in nexus format
+- Protein multiple sequence alignments in nexus format
 
 ## Usage
 
-perl structure_assignment.pl gene_list.txt current_working_directory path_for_SCRATCH1D
+perl structure_assignment.pl gene_list.txt path_for_SCRATCH1D
 
 ## Output
 
@@ -20,7 +20,7 @@ It creates following output files
 
 ### Important Note:
 
-In order to extract different structural classes sites from different genes, you need PAUP to extract different CHARSET blocks from the output nexus file
+To extract sites for different structural classes from different genes (MSA), you can use PAUP to extract different CHARSET blocks from the output nexus file
 
 ### Sample files
 
